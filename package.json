@@ -28,5 +28,13 @@
     "request": "^2.87.0",
     "slug": "^0.9.1",
     "underscore": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haywhyze/ah-johnwick.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haywhyze/ah-johnwick/issues"
+  },
+  "homepage": "https://github.com/haywhyze/ah-johnwick#readme"
 }
